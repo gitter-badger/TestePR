@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action1", Snackbar.LENGTH_LONG)
-                        .setAction("Action3", null).show();
+                        .setAction("Action3 new update", null).show();
             }
         });
     }
